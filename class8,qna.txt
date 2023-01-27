@@ -1,0 +1,21 @@
+
+
+1. What is pandas library in python? 
+A.  Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data.
+
+2. How to install library in python?
+1. A. pip install --user module_name. ...
+
+3.what is package in pandas library?
+  A. pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real-world data analysis in Python.
+
+3. what are delimiter files?
+ A.delimiter separates the data fields. It is usually a comma, but can also be a pipe, a tab, or any single value character. An enclosing character occurs at the beginning and the end of a value. It is sometimes called a quote character (because it is usually double quotes), but you can use another character instead
+
+4. Write some delimiter files?
+A. A.  Delimited text files are text files which use a specific character such as commas, tabs, etc, to separate values
+
+
+
+Task8
+

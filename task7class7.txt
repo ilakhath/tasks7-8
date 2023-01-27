@@ -1,0 +1,27 @@
+
+
+1. What is function in python?
+A. A function is a block of code which only runs when it is called. You can
+pass data, known as parameters, into a function                   
+
+2. Types of function in python?
+  A There are two types of functions in python:
+* User-Defined Functions - these types of functions are defined by the user to perform any specific task.
+* Built-in Functions - These are pre-defined functions in python.
+
+
+3. What is user define function in python?
+A. Functions that we define ourselves to do certain specific task are referred as user-defined functions. The way in which we define and call functions in Python are already discussed. Functions that readily come with Python are called built-in functions.
+
+4. What is built in funciton in python?
+A. The Python built-in functions are defined as the functions whose functionality is pre-defined in Python. The python interpreter has several functions that are always present for use. These functions are known as Built-in Functions.
+
+5. What is spyder tool in python & Why we use it?
+A. pyder is a cross-platform, open-source ide (IDE) for scientific Python programming. Spyder works with a variety of popular Python packages, like NumPy, Matplotlib, pandas, SymPy, and Cython, and other open-source applications
+
+6. What is parameter in function?
+       A.   A parameter is a special kind of variable used in a function to refer to            .            one of the pieces of data provided as input to the function. These pieces of data are the values of the arguments with which the function is going to be called/invoked
+
+
+Task 7
+
